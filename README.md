@@ -28,7 +28,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📧 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:aemijang812@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aemijang812@gmail.com"></a>
-        <a href="https://www.linkedin.com/in/Yurim Jang/">
+        <a href="https://www.linkedin.com/in/jangyurim90/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
 </a>
           </div>  <br> 
