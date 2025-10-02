@@ -26,18 +26,33 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:aemijang812@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aemijang812@gmail.com"> </a>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📧 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:aemijang812@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aemijang812@gmail.com"></a>
+        <a href="https://www.linkedin.com/in/Yurim Jang/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
+</a>
           </div>  <br> 
     </a>
        </div> 
     </div>
-    <div style="text-align: left;"> 
-
-  <div style="text-align: left;">   
-    <img src="http://mazandi.herokuapp.com/api?handle=JangYurim90&theme=dark" width="400"/>
-  </div> 
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📈 Visitors </h2>
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=JangYurim90&style=flat-square&color=0e75b6"
+      alt="Profile views total"
+    />
+   <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https%3A%2F%2Fgithub.com%2Fyurimjang"
+       alt="Daily visitors graph"
+       height="28" />
+    </a>
+  </p>
 </div>
+
+
+
+
 
     
     
