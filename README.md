@@ -42,11 +42,6 @@
       src="https://komarev.com/ghpvc/?username=JangYurim90&style=flat-square&color=0e75b6"
       alt="Profile views total"
     />
-   <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https%3A%2F%2Fgithub.com%2Fyurimjang"
-       alt="Daily visitors graph"
-       height="28" />
-    </a>
   </p>
 </div>
 
